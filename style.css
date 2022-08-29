@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+
+
+}
+
+.container {
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 15vh;
+    border: 2px solid black;
+    padding-bottom: 45vh;
+    box-shadow: 10px 10px 0px 5px black;
+}
+
+
+
+
