@@ -16,3 +16,77 @@ body {
 
 
 
+h1 { 
+
+    margin-left: 5vw;
+    font-size: 5rem;
+   
+
+}
+
+
+input {
+    margin-left: 7vw;
+    margin-right: 1rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 1.7rem;
+    box-sizing: border-box;
+
+    border-radius: 5rem;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.buttons {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 1.7rem;
+}
+
+button {
+    background-color: white;
+    border: 2px solid black;
+    margin-right: 1rem;
+    
+}
+
+button:hover {
+    box-shadow: 2px 2px 0px 3px black;
+}
+
+.scramble-box {
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+
+    width: 100%;
+
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 5px;
+    margin-bottom: 5vh;
+
+
+}
+
+strong {
+
+            font-size: 3rem;
+            margin-left: 5vw;
+            
+
+
+
+
+}
+
+
+
+#insert {
+    font-size: 2rem;
+    margin-left: 5vw;
+    color: pink;
+    
+}
